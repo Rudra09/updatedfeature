@@ -3914,5 +3914,10 @@ html.lang-hi .cursive-name, html.lang-hi .hero-tagline { line-height: 1.4; } */
     padding:2px;
     line-height: normal;
   }
+  .invite-modal-footer
+  {
+    flex-direction: column;
+    
+  }
 }
 
